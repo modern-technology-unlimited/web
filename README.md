@@ -2,12 +2,11 @@
 landing page for modern technology 
 
 # stacks
-plain old 
+## plain old 
 
 ```javascript
 
 Html
-Css
-Javascript
-Bootstrap
+Css & Bootstrap
+Javascript & webpack
 ```
