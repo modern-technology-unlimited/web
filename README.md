@@ -5,7 +5,5 @@ landing page for modern technology
 
 ```javascript
 
-Html
-Css & Bootstrap
-Javascript & webpack
+Html Css Javascript
 ```
