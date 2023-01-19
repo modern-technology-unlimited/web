@@ -2,7 +2,6 @@
 landing page for modern technology 
 
 # stacks
-## plain old 
 
 ```javascript
 
