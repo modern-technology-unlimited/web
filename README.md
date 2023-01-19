@@ -2,4 +2,12 @@
 landing page for modern technology 
 
 # stacks
-Html, Css, Javascript, Bootstrap, 
+plain old 
+
+```javascript
+
+Html
+Css
+Javascript
+Bootstrap
+```
